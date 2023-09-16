@@ -1,4 +1,4 @@
-# API Nodejs | Docker
+# Nodejs API | Docker
 
 * This repository serves as a demonstration for a straightforward Node.js project using Docker. It can be utilized by other programmers and cloud platforms like EC2, VRE, and Heroku.
 
@@ -14,3 +14,11 @@
 
 ### What is Docker
  - You can see Docker as a way to pack you code in a nice little container that contains everything it needs to run it; it containerizes your code. The benefits are numerous: containers are scalable, cost-effective and are isolated from each other.
+
+## License
+
+This boilerplate is [MIT licensed](./LICENSE).
+
+## Contributing
+
+Contributions are welcome! If you find a bug or want to add a new feature, please open an issue or submit a pull request.
