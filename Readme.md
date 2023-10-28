@@ -17,6 +17,17 @@
 ### What is Docker
  - You can see Docker as a way to pack you code in a nice little container that contains everything it needs to run it; it containerizes your code. The benefits are numerous: containers are scalable, cost-effective and are isolated from each other.
 
+### Useful Docker commands
+1. List All docker images
+    ```shell
+        docker images
+    ```
+
+2. List All running docker containers
+    ```shell
+        docker ps
+    ```
+
 ## License
 
 This boilerplate is [MIT licensed](./LICENSE).
